@@ -1,0 +1,22 @@
+{
+  "name": "@blackpc/buildit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackpc/buildit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackpc/buildit/issues"
+  },
+  "homepage": "https://github.com/blackpc/buildit#readme",
+  "publishConfig": {
+    "@blackpc:registry": "https://npm.pkg.github.com"
+  }
+}
